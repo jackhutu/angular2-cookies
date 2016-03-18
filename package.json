@@ -1,0 +1,28 @@
+{
+  "name": "angular2-cookies",
+  "version": "0.0.1",
+  "description": "使用angular2的cookie service",
+  "scripts": {
+    "tsc": "tsc",
+    "postinstall": "typings install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackhutu/angular2-cookies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackhutu/angular2-cookies/issues"
+  },
+  "homepage": "https://github.com/jackhutu/angular2-cookies#readme",
+  "main": "angular2-cookies.js",
+  "typings": "angular2-cookies.d.ts",
+  "dependencies": {
+    "tough-cookie": "^2.2.2",
+    "typescript": "^1.8.9",
+    "typings": "^0.7.9"
+  },
+  "devDependencies": {}
+}
