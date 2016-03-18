@@ -14,3 +14,9 @@ import { Cookie } from 'angular2-cookies'
 ```
 
 #### API
+
+load(name: string)  
+
+save(name: string, value: string, expires?: number, path?: string, domain?: string)  
+
+remove(name: string, path?: string, domain?: string)  

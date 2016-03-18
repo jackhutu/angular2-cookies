@@ -1,10 +1,9 @@
 {
   "name": "angular2-cookies",
-  "version": "0.0.1",
-  "description": "使用angular2的cookie service",
+  "version": "0.0.2",
+  "description": "angular2 cookie service",
   "scripts": {
-    "tsc": "tsc",
-    "postinstall": "typings install"
+    "tsc": "tsc"
   },
   "repository": {
     "type": "git",
