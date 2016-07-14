@@ -1,4 +1,3 @@
-//import { Cookie,Store,CookieJar } from 'tough-cookie'
 "use strict";
 var Cookie = (function () {
     function Cookie() {

@@ -1,6 +1,6 @@
 {
   "name": "angular2-cookies",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "angular2 cookie service",
   "scripts": {
     "tsc": "tsc"
@@ -18,10 +18,9 @@
   "homepage": "https://github.com/jackhutu/angular2-cookies#readme",
   "main": "angular2-cookies.js",
   "typings": "angular2-cookies.d.ts",
-  "dependencies": {
-    "tough-cookie": "^2.2.2",
-    "typescript": "^1.8.9",
-    "typings": "^0.7.9"
-  },
-  "devDependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^1.8.10",
+    "typings": "^1.3.1"
+  }
 }

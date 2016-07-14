@@ -1,5 +1,3 @@
-//import { Cookie,Store,CookieJar } from 'tough-cookie'
-
 export class Cookie {
 
   public static load(name: string): string {

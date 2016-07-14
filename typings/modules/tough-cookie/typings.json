@@ -1,0 +1,12 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/typed-typings/npm-tough-cookie/235987754f775ce1374d2b551175cc1d356e3935/typings.json",
+    "raw": "registry:npm/tough-cookie#2.2.0+20160428222547",
+    "main": "lib/cookie.d.ts",
+    "version": "^2.2.0",
+    "global": false,
+    "name": "tough-cookie",
+    "type": "typings"
+  }
+}

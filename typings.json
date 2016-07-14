@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "tough-cookie": "registry:npm/tough-cookie#2.2.0+20160211003958"
+    "tough-cookie": "registry:npm/tough-cookie#2.2.0+20160428222547"
   }
 }
